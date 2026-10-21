@@ -4,7 +4,7 @@
 
 ## 從乾淨環境開始
 
-以下命令由系列根目錄（包含 `03-ai-ml-research/` 的目錄）執行：
+請先從 GitHub 讀者資料庫下載 `book-03-ml-research/companion/`，再在該資料夾的副本中執行以下命令：
 
 ```bash
 cd 03-ai-ml-research/companion
