@@ -1,0 +1,11 @@
+{
+  "dataset": "synthetic-messages-v1",
+  "source": "data/raw/synthetic-messages.csv",
+  "labels": ["account", "billing", "technical"],
+  "columns": ["id", "text", "label"],
+  "seed": 20261021,
+  "split": {"train": 0.6, "validation": 0.2, "test": 0.2},
+  "policy": {"network": false, "gpu": false, "personal_data": false},
+  "deduplication": "id_or_normalized_text",
+  "models": ["majority", "keyword", "multinomial_nb"]
+}

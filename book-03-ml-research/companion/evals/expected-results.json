@@ -1,0 +1,13 @@
+{
+  "dataset": "synthetic-messages-v1",
+  "seed": 20261021,
+  "split_sizes": {"train": 21, "validation": 6, "test": 9},
+  "metrics": {
+    "majority": {"accuracy": 0.3333333333333333, "precision": 0.1111111111111111, "recall": 0.3333333333333333, "macro_f1": 0.16666666666666666},
+    "keyword": {"accuracy": 1.0, "precision": 1.0, "recall": 1.0, "macro_f1": 1.0},
+    "multinomial_nb": {"accuracy": 0.6666666666666666, "precision": 0.8333333333333334, "recall": 0.6666666666666666, "macro_f1": 0.6555555555555556}
+  },
+  "leakage_findings": 0,
+  "status": "verified_cpu_run",
+  "not_run": ["CNN", "Transformer", "GPU", "fine-tuning", "real datasets"]
+}

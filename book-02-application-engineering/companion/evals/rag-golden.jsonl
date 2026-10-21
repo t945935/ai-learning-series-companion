@@ -1,0 +1,3 @@
+{"query":"When is support open?","tenant_id":"acme","role":"support","expected_source":"support-hours.md","expected_behavior":"answer with local evidence"}
+{"query":"What is the refund window?","tenant_id":"acme","role":"support","expected_source":"refund-policy-v2.md","expected_behavior":"answer with local evidence; both policy revisions may match"}
+{"query":"What is the weather on Mars?","tenant_id":"acme","role":"support","expected_behavior":"refuse due to no local evidence"}

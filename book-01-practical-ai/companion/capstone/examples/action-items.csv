@@ -1,0 +1,6 @@
+task_id,source_id,item,owner,due_date,status,next_step
+T-001,meeting-001,補齊設計稿,小敏,今天下午,checked,完成後交工程部檢查
+T-002,meeting-001,確認登入按鈕是否需要修改 API,阿強,未確認,checked,確認影響並回報
+T-003,meeting-001,提供三個客戶案例素材,客戶成功部,未確認,checked,確認素材和交付日期
+T-004,meeting-001,安排安全檢查,未指定,未確認,checked,指定負責人並確認是否執行
+T-005,email-001,確認客戶報表資料更新時間,未指定,未確認,checked,查詢帳戶紀錄後再回覆

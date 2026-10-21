@@ -1,0 +1,37 @@
+id,text,label
+m001,"I was charged twice for one invoice",billing
+m002,"Please explain this month invoice",billing
+m003,"My card payment was declined",billing
+m004,"I need a refund for the duplicate charge",billing
+m005,"Where can I download my receipt",billing
+m006,"The billing amount is incorrect",billing
+m007,"Can you update my payment method",billing
+m008,"I do not recognize this charge",billing
+m009,"How long does a refund take",billing
+m010,"I need help with a subscription invoice",billing
+m011,"The app shows an error on startup",technical
+m012,"The mobile app crashes when I open it",technical
+m013,"I forgot my password and cannot login",technical
+m014,"The dashboard is very slow today",technical
+m015,"There is a bug in the export API",technical
+m016,"Login returns an error message",technical
+m017,"The website crashes after clicking search",technical
+m018,"Password reset link gives an error",technical
+m019,"The API request is failing",technical
+m020,"The application is slow on wifi",technical
+m021,"I want to change my profile name",account
+m022,"Please update my email address",account
+m023,"How do I close my account",account
+m024,"My account profile is missing",account
+m025,"I need to change the address on my account",account
+m026,"Can I update the name in my profile",account
+m027,"Please delete my account",account
+m028,"The email on my profile is wrong",account
+m029,"How can I manage account settings",account
+m030,"I need help changing my address",account
+m031,"Please explain my invoice total",billing
+m032,"The app shows an error after update",technical
+m033,"I need to update my account email",account
+m034,"Can I get a receipt for payment",billing
+m035,"The login page is slow",technical
+m036,"Please close my profile account",account
