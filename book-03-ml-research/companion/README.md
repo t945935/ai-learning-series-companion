@@ -7,7 +7,7 @@
 請先從 GitHub 讀者資料庫下載 `book-03-ml-research/companion/`，再在該資料夾的副本中執行以下命令：
 
 ```bash
-cd 03-ai-ml-research/companion
+cd book-03-ml-research/companion
 python3 -m venv .venv
 . .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -19,7 +19,7 @@ python scripts/build_report.py
 Windows PowerShell：
 
 ```powershell
-cd 03-ai-ml-research\companion
+cd book-03-ml-research\companion
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
